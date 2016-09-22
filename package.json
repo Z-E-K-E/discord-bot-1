@@ -1,0 +1,25 @@
+{
+  "name": "SDB",
+  "version": "1.0.0",
+  "description": "Does a thing!",
+  "author": "Zeke",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "main": "bot.js",
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/Z-E-K-E/discord-bot-1"
+},
+  "bugs": {
+  "url": "https://github.com/Z-E-K-E/discord-bot-1/issues"
+},
+  "keywords": [
+  "discord",
+  "bot",
+  "simple"
+],
+  "dependencies": {
+    "discord.io": "^2.2.1"
+  }
+}
